@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Local agent artifacts (per-machine, do not commit)
+.atl/
+.engram/
+.mobiai/
